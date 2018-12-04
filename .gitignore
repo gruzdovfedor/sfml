@@ -1,4 +1,3 @@
-*.log
-*.zip
-*.csv
 /.ipynb_checkpoints
+/*.zip
+/*.csv
